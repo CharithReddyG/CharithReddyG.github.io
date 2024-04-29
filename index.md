@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Capstone Project
 
-[Project 1 Title](/sample_page)
+[Home Credit Default Risk Prediction](/https://github.com/CharithReddyG/Home-credit)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
