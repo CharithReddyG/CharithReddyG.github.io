@@ -1,12 +1,11 @@
 title: Charith Reddy Gopavaram # your name (or website title) here
-logo: "/images/1711?raw=true" # your photo (or logo) here
+logo: "https://github.com/CharithReddyG/CharithReddyG.github.io/blob/7aaee5f4336f4a15ddf070228386ea681fbb48fe/1711652910391.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am currently pursuing a Master's in Business Analysis (MSBA) at David Eccles School of Business,  University of Utah
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
+  <a href="https://www.linkedin.com/in/charith-reddy-gopavaram-245916171">View My LinkedIn Profile</a> 
+  <a href="https://github.com/CharithReddyG">Github</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
